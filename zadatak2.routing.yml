@@ -1,0 +1,9 @@
+zadatak2.nesto:
+  path: '/zadatak2'
+  defaults:
+    _form: '\Drupal\zadatak2\Form\Zadatak2Form'
+    _title: 'Zadatak 2'
+  requirements:
+    _permission: 'administer site configuration'
+
+

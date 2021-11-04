@@ -1,0 +1,7 @@
+name: Zadatak 2
+description: Drugi zadatak na praksi u Studio Presentu
+type: module
+core_version_requirement: ^8 || ^9
+package: custom
+dependencies:
+  - drupal:block
